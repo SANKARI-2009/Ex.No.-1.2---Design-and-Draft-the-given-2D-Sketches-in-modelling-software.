@@ -87,6 +87,10 @@ sketching environment.
 dimensions, symmetrical features, and central openings match the required 
 design. Save the completed Fusion 360 design and drawing file with an 
 appropriate project name
+
+ 
+ 
+ 
  ## OUTPUT
 <img width="951" height="808" alt="Screenshot 2026-11-22 155127" src="https://github.com/user-attachments/assets/1479f393-b2a5-4438-a350-2a067fcf6a33" />
 
