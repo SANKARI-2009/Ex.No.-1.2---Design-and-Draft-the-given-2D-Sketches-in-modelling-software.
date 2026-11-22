@@ -88,7 +88,6 @@ dimensions, symmetrical features, and central openings match the required
 design. Save the completed Fusion 360 design and drawing file with an 
 appropriate project name
  ## OUTPUT
- <img width="951" height="808" alt="image" src="https://github.com/user-attachments/assets/afd4825b-db09-4c47-87cd-3a27f3279461" />
 <img width="747" height="537" alt="image" src="https://github.com/user-attachments/assets/3f389daa-39c9-418e-909b-3c77f9155c29" />
 
  
